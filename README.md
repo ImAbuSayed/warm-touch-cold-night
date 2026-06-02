@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warm-touch-cold-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Warm Touch Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-touch-cold-night/) |
+| **Get License** | [License this song: Warm Touch Cold Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-touch-cold-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the hardwood floor
+> Pulling you closer, begging for more
+> Whiskey melting in a midnight glow
+> We're taking our time, nice and slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
